@@ -1,0 +1,14 @@
+{
+    "name": "thanhvtt/php-sample",
+    "description": "A php sample composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thanhvtt",
+            "email": "thanh.vuthithanh@toshiba-tsdv.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
