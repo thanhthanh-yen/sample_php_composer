@@ -1,6 +1,7 @@
 <?php
 namespace HelloWorld;
-function writeMsg($name) {
-    echo "Hello $name!";
+class Hello{
+    function writeMsg($name) {
+        echo "Hello $name!";
 }
-?>
+}
