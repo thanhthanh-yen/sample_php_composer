@@ -1,3 +1,5 @@
 <?php
- echo "The PHP Sample\n"
+function writeMsg($name) {
+    echo "Hello $name!";
+}
 ?>
