@@ -9,7 +9,7 @@
             "email": "thanh.vuthithanh@toshiba-tsdv.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "HelloWorld\\": "src/"
