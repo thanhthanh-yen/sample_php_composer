@@ -13,7 +13,6 @@
         "psr-4": {
             "HelloWorld\\": "src/"
         }
-    },
-    "version": "v1.0.0",
+    }
     "require": {}
 }
