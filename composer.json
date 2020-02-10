@@ -14,6 +14,6 @@
             "HelloWorld\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "version": "v0.1",
     "require": {}
 }
