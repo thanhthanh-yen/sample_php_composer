@@ -2,6 +2,6 @@
 namespace HelloWorld;
 class Hello{
     function writeMsg($name) {
-        echo "Hello $name!";
+        echo "Hel $name!";
 }
 }
